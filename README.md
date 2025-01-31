@@ -62,3 +62,9 @@
 <img src="https://raw.githubusercontent.com/Conor-20105865/Conor-20105865/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Conor-20105865/count.svg?"  />
+</div>
+
+###
