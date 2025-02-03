@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=conor-20105865&radius=16&theme=react&area=true&order=5" height="150" width="320" alt="activity-graph graph"  />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=conor-20105865&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Conor-20105865&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
