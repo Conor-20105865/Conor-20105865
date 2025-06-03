@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Conor and I'm a Cyber Security Student, from Ireland</h2>
+<h2 align="left">Hi! I'm Conor — a Cybersecurity & Digital Forensics student from Ireland</h2>
+<p align="left"> Passionate about protecting digital worlds, building secure systems, and constantly learning in the ever-evolving world of cybersecurity.</p>
 
 ###
 
@@ -11,7 +12,7 @@
 
 <img align="right" height="150" src="https://th.bing.com/th/id/R.0166114836ad883b0c89b314fa81c7e6?rik=og%2bXbH%2f%2bWtF%2bXA&riu=http%3a%2f%2fpa1.narvii.com%2f5721%2f3f068a3f643085f40e651ed208e06f79c68c2a20_hq.gif&ehk=Df2cEDrgjWGehBYLet74vqnnWsGy7Fvt41RLPOLKo9s%3d&risl=&pid=ImgRaw&r=0"  />
 
-###
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,7 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
 </div>
 
-###
+### Connect With Me
+<div align="center">
 
 <div align="left">
   <a href="https://www.youtube.com/@conorc312" target="_blank">
@@ -55,14 +57,12 @@
   </a>
 </div>
 
-###
-
+### 
+<div align="left">
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Conor-20105865/Conor-20105865/output/snake.svg" alt="Snake animation" />
 
-###
-
+### Profile Visitors
 <div align="center">
   <img src="https://profile-counter.glitch.me/Conor-20105865/count.svg?"  />
 </div>
