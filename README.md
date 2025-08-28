@@ -65,8 +65,8 @@
 <div align="center">
  
 ### Profile Visitors
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Conor-20105865/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Conor-20105865&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
 
 ###
