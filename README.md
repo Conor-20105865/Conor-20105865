@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Conor-20105865&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile views" />
+</p>
+
 <h2 align="left">Hi! I'm Conor — a Cybersecurity & Digital Forensics student from Ireland</h2>
 <p align="left"> Passionate about protecting digital worlds, building secure systems, and constantly learning in the ever-evolving world of cybersecurity.</p>
 
@@ -64,9 +68,4 @@
 
 <div align="center">
  
-### Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Conor-20105865&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile views" />
-</p>
-
 ###
