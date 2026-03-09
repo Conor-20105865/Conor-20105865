@@ -1,71 +1,83 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Conor-20105865&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Conor-20105865&label=Profile%20Views&color=brightgreen&style=flat-square" />
 </p>
 
-<h2 align="left">Hi! I'm Conor — a Cybersecurity & Digital Forensics student from Ireland</h2>
-<p align="left"> Passionate about protecting digital worlds, building secure systems, and constantly learning in the ever-evolving world of cybersecurity.</p>
+<h1 align="center">Hi, I'm Conor</h1>
+<h3 align="center">Cybersecurity & Digital Forensics Student | Ireland</h3>
 
-###
+<p align="center">
+Passionate about protecting digital systems, exploring cybersecurity, and constantly learning in the ever-evolving world of digital security.
+</p>
 
-<div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=conor-20105865&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Conor-20105865&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
-
-<img align="right" height="150" src="https://th.bing.com/th/id/R.0166114836ad883b0c89b314fa81c7e6?rik=og%2bXbH%2f%2bWtF%2bXA&riu=http%3a%2f%2fpa1.narvii.com%2f5721%2f3f068a3f643085f40e651ed208e06f79c68c2a20_hq.gif&ehk=Df2cEDrgjWGehBYLet74vqnnWsGy7Fvt41RLPOLKo9s%3d&risl=&pid=ImgRaw&r=0"  />
-
-### Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-</div>
-
-### Connect With Me
-<div align="center">
-
-<div align="left">
-  <a href="https://www.youtube.com/@conorc312" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/cnr_cnghm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/?fs=1&to=conorc312@gmail.com&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/conor-cunningham-1a0010210/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/conor.cunningham.9678/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-### 
-<div align="left">
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Conor-20105865/Conor-20105865/output/snake.svg" alt="Snake animation" />
+## GitHub Activity
 
 <div align="center">
- 
-###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Conor-20105865&radius=16&theme=react&area=true" height="170"/>
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/conor-cunningham-1a0010210/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/cnr_cnghm/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@conorc312">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:conorc312@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/conor.cunningham.9678/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Conor-20105865/Conor-20105865/output/snake.svg"/>
+
+</div>
+
+---
+
+<p align="center">
+Always learning • Always building • Always securing 🔐
+</p>
